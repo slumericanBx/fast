@@ -39,6 +39,6 @@
   },
   "dependencies": {
     "mdx-mermaid": "^1.2.1",
-    "mermaid": "^9.1.2"
+    "mermaid": "^9.4.0"
   }
 }
